@@ -2,12 +2,12 @@ import React from "react"
 import Layout from "../components/layout"
 import * as styles from "../components/index.module.css"
 
-const AboutPage = () => (
+const ServicesPage = () => (
   <Layout>
     <div className={styles.textCenter}>
-      <h2>Welcom to About page</h2>
+      <h2>Welcome to Service page</h2>
     </div>
   </Layout>
 )
 
-export default AboutPage
+export default ServicesPage
